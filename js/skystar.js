@@ -102,7 +102,7 @@ let textone = document.querySelector('.textone').querySelector('h1');
       let textthree = document.querySelector('.textthree').querySelector('h1');
 
       setTimeout(function(){
-        textone.innerHTML = '今晚，整片星空将为你一人闪烁';
+        textone.innerHTML = '瑶宝，今晚整片星空为你一人闪烁';
           textone.style.color = '#E8F9FD';
           textone.style.fontFamily = '楷体'
           texttwo.style.color = '#E8F9FD';
@@ -110,12 +110,12 @@ let textone = document.querySelector('.textone').querySelector('h1');
           textthree.style.color = '#E8F9FD';
           textthree.style.fontFamily = '楷体'
           texttwo.innerHTML = '';
-      },28000)
+      },7000)
       setTimeout(function(){
-        textone.innerHTML = '从前从前,有个人爱你很久';
-        texttwo.innerHTML = '但偏偏，风渐渐';
-        textthree.innerHTML = '把距离吹的好远';
-      },112500)
+        textone.innerHTML = '借着七夕星河，为往日带给你的难过，向你道歉';
+        texttwo.innerHTML = '纵有争执起落，心底自始至终都向着你';
+        textthree.innerHTML = '愿往后岁岁朝夕，以温柔待你，共赴来日漫漫';
+      },20000)
 
 
  
